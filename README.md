@@ -1,5 +1,6 @@
 # 2fopen_source
-#install all comand
+***install all comand***
+
 pkg update
 pkg upgrade
 pkg install python
